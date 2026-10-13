@@ -1,6 +1,6 @@
 # pi-riddler
 
-A [pi](https://github.com/earendil-works/pi-coding-agent) extension that adds an `ask_user` tool. The agent asks one or more questions. You answer with a pre-written option **or** free text, and both are always available.
+A [pi](https://pi.dev/) extension that adds an `ask_user` tool. The agent asks one or more questions. You answer with a pre-written option **or** free text, and both are always available.
 
 ## Features
 
