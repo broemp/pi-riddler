@@ -1,4 +1,4 @@
-# jb-pi-riddler
+# pi-riddler
 
 A [pi](https://github.com/earendil-works/pi-coding-agent) extension that adds an `ask_user` tool. The agent asks one or more questions. You answer with a pre-written option **or** free text, and both are always available.
 
@@ -11,7 +11,7 @@ A [pi](https://github.com/earendil-works/pi-coding-agent) extension that adds an
 ## Install
 
 ```sh
-pi install /path/to/jb-pi-riddler
+pi install /path/to/pi-riddler
 # or try it without installing:
 pi -e ./extensions/ask-user.ts
 ```
